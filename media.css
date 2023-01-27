@@ -1,0 +1,63 @@
+@media screen and (min-width:768px) and (max-width:1024px) {
+    .header-menu-right {
+
+        display: flex;
+        justify-content: center;
+        justify-content: end;
+
+    }
+
+    .fa-magnifying-glass,
+    .fa-user,
+    .fa-cart-shopping {
+        margin-right: 1.50em;
+        font-size: 1.10em;
+    }
+
+    /* contact */
+    .contact {
+        display: flex;
+        justify-content: space-between;
+        justify-content: space-around;
+        align-items: center;
+    }
+
+    /* contact form */
+    .contact form {
+
+        width: 50%;
+    }
+
+    /* contact form input */
+    .contact form input {
+        width: auto;
+    }
+
+    /* contact form box */
+    .contact-form-box {
+        display: flex;
+        justify-content: end;
+        /* background-color: red; */
+        width: 50%;
+    }
+
+    /* btn-insc */
+    .btn-insc {
+
+        width: 50%;
+        font-size: 1.03em;
+    }
+
+    .contact-form-box button {
+        width: auto;
+        height: auto;
+        width: 90%;
+
+
+
+
+    }
+
+
+
+}
